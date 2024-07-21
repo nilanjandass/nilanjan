@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-pip install pygame
-
-
-# In[1]:
-
+# pip install pygame
 
 import pygame
 import time
@@ -231,10 +221,3 @@ def gameLoop(highscore):
 # Main execution
 splash_screen()
 gameLoop(0)  # Start with a highscore of 0
-
-
-# In[ ]:
-
-
-
-
